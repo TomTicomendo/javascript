@@ -17,7 +17,7 @@
     <tr class="prato-do-dia" id="segunda">
         <td class='salada'>Salada de Batata</td>
         <td class='principal'>Macarrão com molho branco</td>
-        <td class='acompanhamento'>Milho, ervilha e brócolis</td>        
+        <td class='acompanhamento'>Milho, ervilha, brócolis e cebola</td>        
     </tr>
 </tbody>
 </table>
