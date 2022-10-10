@@ -16,7 +16,7 @@
     Consultas Agendadas
     <tr class="prato-do-dia" id="segunda">
         <td class='salada'>Rogério Silva</td>
-        <td class='principal'>57</td>
+        <td class='principal'>53</td>
         <td class='acompanhamento'>14/11</td>        
     </tr>
 </tbody>
