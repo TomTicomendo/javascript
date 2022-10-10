@@ -2,22 +2,22 @@
 <table>
 <thead>
     <tr>            
-        <th>Salada</th>
-        <th>Prato Principal</th>
-        <th>Acompanhamento</th>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Consulta</th>
     </tr>
 </thead>
 <tbody>
     <tr class="prato-do-dia" id="sexta">
-        <td class='salada'>Alface e Tomate</td>
-        <td class='principal'>Frango Grelhado</td>
-        <td class='acompanhamento'>Arroz e Feijão preto</td>        
+        <td class='salada'>Roberto Pinto</td>
+        <td class='principal'>27</td>
+        <td class='acompanhamento'>21/10</td>        
     </tr>
-    ...Dias da semana
+    Consultas Agendadas
     <tr class="prato-do-dia" id="segunda">
-        <td class='salada'>Salada de Batata</td>
-        <td class='principal'>Macarrão com molho branco</td>
-        <td class='acompanhamento'>Milho, ervilha, brócolis e cebola</td>        
+        <td class='salada'>Rogério Silva</td>
+        <td class='principal'>57</td>
+        <td class='acompanhamento'>14/11</td>        
     </tr>
 </tbody>
 </table>
